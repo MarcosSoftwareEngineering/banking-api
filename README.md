@@ -103,3 +103,10 @@ http://localhost:8000/docs
 ---
 
 ## 👨‍💻 Autor
+## 👨‍💻 Autor
+
+**Marcos Vinicius** — [GitHub](https://github.com/MarcosSoftwareEngineering)
+
+---
+
+*Projeto desenvolvido para a DIO*
