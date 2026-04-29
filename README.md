@@ -28,6 +28,7 @@
 
 ## 📁 Estrutura do Projeto
 
+```
 banking-api/
 ├── app/
 │   ├── core/          # Configurações, banco de dados e segurança
@@ -40,8 +41,8 @@ banking-api/
 ├── .env
 ├── requirements.txt
 └── main.py
+```
 
----
 
 ## ⚙️ Como rodar localmente
 
@@ -102,9 +103,3 @@ http://localhost:8000/docs
 ---
 
 ## 👨‍💻 Autor
-
-**Marcos Vinicius** — [GitHub](https://github.com/MarcosSoftwareEngineering)
-
----
-
-*Projeto desenvolvido para a DIO*
